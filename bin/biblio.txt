@@ -1,0 +1,14 @@
+fuentes consultadas:
+
+modelos 3D:
+http://thefree3dmodels.com
+
+Sistema de particulas:
+http://www.naturewizard.com/tutorial08.html
+
+texturas:
+http://www.123rf.com/photo_12493896_green-background-of-green-background-of-texture-leaf-and-drops-vector-eps10-vector-eps10.html
+http://frexpaper.com/wood-texture-image.html
+
+libreria de carga de objestos (GLM)
+http://devernay.free.fr/hacks/glm/
